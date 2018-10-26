@@ -1,7 +1,8 @@
 # CS321-2018F-004
 
 ## Shops in general (for devs)
-(Isaiah)
+_by Isaiah_
+
 ###### For Developers
 In the code, there are two classes that control shops: the Shop class and the ShopClient class. The Shop class is the server-side class responsible for keeping track of things like which players are in the shop, what the shop's inventory is, and which items are "on sale" or "in demand". As this is the server-side class representation of the shop, there should only ever be one instance of it at a time unless more shops are added to the game.
 
@@ -11,34 +12,50 @@ The ShopClient class is a way for the player to interact with the server-side Sh
 
 ###### For Users
 
-## Buy
+
+## Buying
+_by Rish_
 
 ###### For Developers
 
 ###### For Users
 
-## Sell
+## Selling
+_by Rish_
 
 ###### For Developers
 
 ###### For Users
 
-## Inventory
+## Shop Inventory
+_by [name]_
 
 ###### For Developers
 
 ###### For Users
+
+&nbsp;
+
+&nbsp;
 
 # Money
+_by Riley_
 
 ###### For Developers
 
 ###### For Users
 
+&nbsp;
+
+&nbsp;
+
 # Venmo
+_by Abdul_
 
 ## Send
 
 ###### For Developers
 
 ###### For Users
+
+
