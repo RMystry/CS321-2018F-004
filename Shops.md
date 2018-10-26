@@ -1,6 +1,10 @@
 # CS321-2018F-004
 
-## Shops in general (for devs)
+&nbsp;
+
+# Shops
+
+## Shop Architecture
 _by Isaiah_
 
 ###### For Developers
@@ -11,7 +15,7 @@ The ShopClient class is a way for the player to interact with the server-side Sh
 ![Shop and ShopCLient UML CLass Diagram](https://i.imgur.com/VztiLwI.png)
 
 ###### For Users
-
+????
 
 ## Buying
 _by Rish_
