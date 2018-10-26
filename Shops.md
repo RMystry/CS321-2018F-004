@@ -8,7 +8,7 @@ In the code, there are two classes that control shops: the Shop class and the Sh
 
 The ShopClient class is a way for the player to interact with the server-side Shop class. Any time a player enters a shop, a ShopClient object is generated to listen to their commands and send them to the Shop class they are interacting with. Because neither class is serializable, the methods can only have Strings and primitive-type return values. The below UML diagram further illustrates the relationship between shops.
 
-![Shop and ChopCLient UML CLass Diagram](https://imgur.com/VztiLwI "Shop and ShopClient UML Diagram")
+![Shop and ShopCLient UML CLass Diagram](https://imgur.com/VztiLwI "Shop and ShopClient UML Diagram")
 
 ###### For Users
 
