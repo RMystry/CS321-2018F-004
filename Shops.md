@@ -1,7 +1,5 @@
 # CS321-2018F-004
-
-&nbsp;
-
+Our team is responsible for the shops and money aspects of the game. The shops are setup for client and server interactions, allowing for buying and selling, each item bought and sold being stored in the shop. Players buy and sell items with money, which they can also send to each other using venmo.
 # Shops
 
 ## Shop Architecture
