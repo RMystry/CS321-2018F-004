@@ -15,7 +15,7 @@ The ShopClient class is a way for the player to interact with the server-side Sh
 ###### For Users
 In the game, when you use the "shop" command, you walk up to the store kiosk and can buy or sell your items. Just like in real life, you will still hear the hustle and bustle going on around you, but the only commands you can use are the shop commands (interacting with the outside world would be rude to the clerk).  
   
-The most useful commands you will want to remember are "buy \[item\]", "sell \[item\]" and "exit". This readme will elaborate on the usese and implimentations of those commands and more. 
+The most useful commands you will want to remember are "buy \[item\]", "sell \[item\]" and "exit". This readme will elaborate on the uses and implimentations of those commands and more. 
 
 ## Buying
 _by Rish_
